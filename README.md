@@ -30,3 +30,5 @@ Asegúrate de tener instalado lo siguiente:
 4.  **Ejecutar la aplicación:** Ejecuta la clase principal `com.informaticadsy.spring.app1.springboot_aplications.SpringbootAplicationsApplication` desde tu IDE o utilizando el comando `./mvnw spring-boot:run` (en Linux/macOS) o `mvnw spring-boot:run` (en Windows).
 
 ## Estructura del Proyecto
+
+![image](https://github.com/user-attachments/assets/382d56ef-a002-45d9-8d19-4edb2f698244)
